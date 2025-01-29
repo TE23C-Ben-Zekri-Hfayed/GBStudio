@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "9ebdf2a0-d426-4d15-8a4e-4ff30ddfd040",
+  "name": "Gurbs-adventure-title",
+  "symbol": "bg_gurbs_adventure_title",
+  "width": 20,
+  "height": 25,
+  "imageWidth": 160,
+  "imageHeight": 200,
+  "filename": "Gurbs-adventure-title.png",
+  "tileColors": ""
+}

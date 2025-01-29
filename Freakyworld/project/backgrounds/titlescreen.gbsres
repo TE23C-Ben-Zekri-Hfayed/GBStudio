@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "933ea0e8-fbd3-484f-a13e-8a6f51cbee7c",
+  "name": "titlescreen",
+  "symbol": "bg_titlescreen",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "titlescreen.png",
+  "tileColors": ""
+}

@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "b0cf08fe-8d82-43ca-a1f5-38bcc8805c66",
+  "name": "Right-1-Town",
+  "symbol": "bg_right_1_town",
+  "width": 32,
+  "height": 32,
+  "imageWidth": 256,
+  "imageHeight": 256,
+  "filename": "Right-1-Town.png",
+  "tileColors": "05400+"
+}

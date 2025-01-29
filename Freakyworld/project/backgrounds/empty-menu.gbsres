@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "72f88f06-9ba4-4cba-bdbb-4327a3da94e6",
+  "name": "Empty-Menu",
+  "symbol": "bg_empty_menu",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "Empty-Menu.png",
+  "tileColors": ""
+}
