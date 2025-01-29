@@ -1,0 +1,101 @@
+{
+  "_resourceType": "sprite",
+  "id": "b961dcea-a5ba-4668-a39b-31f9ca746752",
+  "name": "DodgeballRed",
+  "symbol": "sprite_dodgeballred",
+  "numFrames": 0.75,
+  "filename": "DodgeballRed.png",
+  "checksum": "2f2efaad5f00a6e0b7764176dc7918a34dc1b3e3",
+  "width": 12,
+  "height": 12,
+  "states": [
+    {
+      "id": "4dd0c416-0e4e-4606-951e-65da98a524ed",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "23562ba8-2376-4561-af2d-1a1b62fcf60c",
+          "frames": [
+            {
+              "id": "27b4f94d-8522-47a3-b580-c5af501b1c32",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "b7bfdf87-be1c-4597-9790-16d3371c8fb1",
+          "frames": [
+            {
+              "id": "ad3a6f5f-b620-4a35-9e0d-8671f870e6ce",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "df08dce5-5110-4e09-99d1-c2c78bcd85e8",
+          "frames": [
+            {
+              "id": "8cfcc2f5-94c7-44bd-a388-7533a9c68b4d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "82501f29-b591-4d83-892c-597fa2cb8b7d",
+          "frames": [
+            {
+              "id": "1fee34a5-dad3-4f30-a81c-71971d194213",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8e57ae89-b6c8-4d2e-81fd-5ca8edfcdaa8",
+          "frames": [
+            {
+              "id": "bc57db51-675e-4a95-b2e2-641a8f479524",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "4358bac4-7b17-469d-9acc-f5f2128b3bb0",
+          "frames": [
+            {
+              "id": "ad9a68b3-3e6e-4ddd-b44e-c742881c067b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3de52e4f-7739-46d9-b5d0-add089aa374b",
+          "frames": [
+            {
+              "id": "0d5607f7-27f9-4f50-924c-dc3d17738347",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8d8f92e4-cf3b-4ce6-96ae-07c6736f0f75",
+          "frames": [
+            {
+              "id": "e91dc688-242f-48ba-b201-10b04001b702",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15
+}

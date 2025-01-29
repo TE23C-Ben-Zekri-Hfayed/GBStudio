@@ -1,0 +1,101 @@
+{
+  "_resourceType": "sprite",
+  "id": "d7d5c87c-0ce7-422d-ac28-37dafb339262",
+  "name": "Hearts&Potions",
+  "symbol": "sprite_hearts_potions",
+  "numFrames": 4.0625,
+  "filename": "Hearts&Potions.png",
+  "checksum": "b259cee4647c3167749145f7916a7a35803a3d63",
+  "width": 65,
+  "height": 42,
+  "states": [
+    {
+      "id": "98e59e07-27e0-4694-9c62-f8cab2da8374",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "16cc8f7d-1755-4052-8061-08d598f0f403",
+          "frames": [
+            {
+              "id": "f823dd37-a87f-4310-823b-0860cc7555ad",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fa9a26cd-1801-4e09-a4a7-63f121d816a6",
+          "frames": [
+            {
+              "id": "a61e3464-3191-47bd-aa6f-eee275f36962",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "8b312763-117f-4b1d-a8bf-b7650e08d11e",
+          "frames": [
+            {
+              "id": "f39a283e-e189-4f0c-a8dd-e29f22f699fd",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "562d1b39-f7b0-4b8c-84bf-edcff3128190",
+          "frames": [
+            {
+              "id": "87d6438a-964b-460c-9b03-1c1b4f0dbff7",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "0b2984ed-5024-45ef-a4af-24dc55b9f0c0",
+          "frames": [
+            {
+              "id": "dbe357a2-2c55-4264-896f-5a640c11d3d0",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "39bfbe54-8bb6-47d6-81a5-82682414f655",
+          "frames": [
+            {
+              "id": "8f0079aa-9dd9-462b-a8c1-25c5b3913015",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ed7054bb-f78b-4421-bd79-016981fa5f9d",
+          "frames": [
+            {
+              "id": "2cccd853-036c-4319-9751-58479f465211",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "d7e5e3ca-184c-45ff-94f4-ce8223c9d812",
+          "frames": [
+            {
+              "id": "9ceb5b7c-a46c-4257-b9b9-a9ea72916652",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15
+}

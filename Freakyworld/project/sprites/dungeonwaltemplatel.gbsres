@@ -1,0 +1,101 @@
+{
+  "_resourceType": "sprite",
+  "id": "f7d359e3-008e-4792-ac90-7c44f6ed8672",
+  "name": "DungeonWalTemplatel",
+  "symbol": "sprite_dungeonwaltemplatel",
+  "numFrames": 7,
+  "filename": "DungeonWalTemplatel.png",
+  "checksum": "7e2b083358255937c129f623137d7c2744218609",
+  "width": 112,
+  "height": 48,
+  "states": [
+    {
+      "id": "5f747c5a-337c-44d5-a15f-503ebf9e7026",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "524a42c6-53da-48ec-8e1e-585718b17316",
+          "frames": [
+            {
+              "id": "e813a2a9-3fcd-4b48-9aa1-27e0334d85e4",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ce43174d-77dc-4a7d-83da-91505f41bb1c",
+          "frames": [
+            {
+              "id": "9ad1fc6e-1dd9-428a-9c94-c61b81227dec",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "7f1c7784-27e3-4575-a903-2f26910e9664",
+          "frames": [
+            {
+              "id": "0fdae478-fcfa-4a5c-a1b2-40cc40c22a18",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "43b540e4-c72e-4068-a279-95bcf93992bf",
+          "frames": [
+            {
+              "id": "582596d4-1d9b-49f7-9e37-acb519a01b15",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "76635df7-da21-46d3-b3e4-d748cc3c6d94",
+          "frames": [
+            {
+              "id": "746d7d4c-b4dc-4951-80b1-fed4b22b3632",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "6b7f0e04-8196-407c-867b-bd7f34a360f6",
+          "frames": [
+            {
+              "id": "7ace3eb0-dd48-4b2c-8d27-9efb3ce4f855",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "c47164f0-8ef0-4524-a3dd-1e71c04b244c",
+          "frames": [
+            {
+              "id": "baa11d70-4802-4951-a676-45b91b6890d3",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "19ca907e-06f5-4fbb-ad1d-395eb02552e7",
+          "frames": [
+            {
+              "id": "7b7f6dea-efba-4369-adba-fd034d37bca3",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15
+}

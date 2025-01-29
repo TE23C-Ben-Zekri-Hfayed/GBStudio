@@ -1,0 +1,101 @@
+{
+  "_resourceType": "sprite",
+  "id": "d78e7bdf-f60c-41e9-824c-4e2ae9822de6",
+  "name": "SpaceShipTiles",
+  "symbol": "sprite_spaceshiptiles",
+  "numFrames": 9,
+  "filename": "SpaceShipTiles.png",
+  "checksum": "9578ccb7842c9c8325d34c0996d1be20d26d54ff",
+  "width": 144,
+  "height": 112,
+  "states": [
+    {
+      "id": "653ca63e-1194-4579-bffe-c3f615602249",
+      "name": "",
+      "animationType": "multi_movement",
+      "flipLeft": true,
+      "animations": [
+        {
+          "id": "aa6d87f3-8ef3-4273-9895-394dac906bc2",
+          "frames": [
+            {
+              "id": "8e6c61d3-5e83-4e0e-a3a5-84fa4d950171",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "2937d761-664d-494a-9ff3-3f63364573b1",
+          "frames": [
+            {
+              "id": "2b050440-2a57-48a2-b91c-801244fa431b",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ce32b0ec-7b79-4fdc-93bc-8d312a920a69",
+          "frames": [
+            {
+              "id": "bc852228-059f-42bd-a947-4c32d7b94d90",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fafecf8f-0609-4188-b6ce-c144aa7b0b20",
+          "frames": [
+            {
+              "id": "abd8affe-6660-46da-b7dd-82cc29e3028d",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "fd4efe22-3c45-47a3-96fb-52fce6bba6f0",
+          "frames": [
+            {
+              "id": "511b697e-f90a-4967-b2e7-73c46bbee89e",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "ef517d7d-e0fa-4508-aa2b-87a9ba73b185",
+          "frames": [
+            {
+              "id": "b1cbc321-35a1-4a78-9f22-9db04b0c25e5",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "3975bf80-1a0a-4c49-b388-8e087c2cef46",
+          "frames": [
+            {
+              "id": "76cef688-c569-4980-ab91-a3d94df38891",
+              "tiles": []
+            }
+          ]
+        },
+        {
+          "id": "77ae0b40-10d4-4835-ba79-6731aa5553ec",
+          "frames": [
+            {
+              "id": "63fc1d08-3504-4dee-a3a3-784022c3d77b",
+              "tiles": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "numTiles": 0,
+  "canvasWidth": 32,
+  "canvasHeight": 32,
+  "boundsX": 0,
+  "boundsY": 0,
+  "boundsWidth": 16,
+  "boundsHeight": 16,
+  "animSpeed": 15
+}
